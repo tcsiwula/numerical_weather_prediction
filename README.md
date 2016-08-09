@@ -1,0 +1,2 @@
+# numerical_weather_prediction
+By using a grid, we can simulate the temperature in the bar and check our intuition. In order to get the grid, we divide up the length of the bar into equal-sized segments and the time of interest into equal-sized intervals. To be explicit, suppose the length of the bar is 1 meter and the time of interest is 1 second. Further suppose that we divide the bar into m segments of length h = 1/m, meters and we divide the time into n intervals of length d = 1/n seconds.  https://en.wikipedia.org/wiki/Numerical_weather_prediction
